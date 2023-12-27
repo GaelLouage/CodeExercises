@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\CodeExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\CodeExercises.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\CodeExercises.AssemblyInfo.cs
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\CodeExercises.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\bin\Debug\net8.0\CodeExercises.exe
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\bin\Debug\net8.0\CodeExercises.deps.json
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\bin\Debug\net8.0\CodeExercises.runtimeconfig.json
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\bin\Debug\net8.0\CodeExercises.dll
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\bin\Debug\net8.0\CodeExercises.pdb
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\CodeExercises.dll
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\refint\CodeExercises.dll
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\CodeExercises.pdb
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\CodeExercises.genruntimeconfig.cache
+C:\Users\louag\source\repos\CodeExercises\CodeExercises\obj\Debug\net8.0\ref\CodeExercises.dll
